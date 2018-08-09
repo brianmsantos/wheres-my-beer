@@ -1,0 +1,23 @@
+{
+  "name": "wheres-my-beer",
+  "version": "1.0.0",
+  "description": "Dude, where's my beer?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianmsantos/wheres-my-beer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianmsantos/wheres-my-beer/issues"
+  },
+  "homepage": "https://github.com/brianmsantos/wheres-my-beer#readme",
+  "dependencies": {
+    "js-beautify": "^1.7.5"
+  }
+}
